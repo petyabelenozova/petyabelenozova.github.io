@@ -1,0 +1,29 @@
+.row{   
+    display:flex;
+    justify-content:space-around;
+    background-color:black;
+    color:white;
+    font-family: 'Sacramento', cursive;
+    font-size:40px;
+}
+.headshot{
+    width:10%;
+    height: 30%;
+    border-radius:8px;
+   
+}
+.mid{
+    background-color:white;
+    display:flex;   
+    justify-content:space-around;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:0px solid black;
+    display:flex;
+    flex-direction:column;
+}
